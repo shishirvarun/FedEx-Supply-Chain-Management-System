@@ -11,10 +11,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on a FedE
 - [Dataset Description](#dataset-description)  
 - [Libraries Used](#libraries-used)  
 - [Key Analysis Sections](#key-analysis-sections)  
-- [Insights Summary](#insights-summary)  
-- [Running the Notebook](#running-the-notebook)  
-- [Screenshots & Visuals](#screenshots--visuals)  
-- [Future Work](#future-work)  
+- [Insights Summary](#insights-summary)   
 - [Author](#author)
 
 ---
