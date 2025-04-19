@@ -110,5 +110,5 @@ The notebook uses the following Python libraries for data handling and visualiza
 👤 Author
 Shishir Varun
 Data Analyst | Python | SQL | Power BI
-📬 varunshihsir@gmail.com
+📬 varunshishir@gmail.com
 
